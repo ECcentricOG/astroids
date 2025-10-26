@@ -47,8 +47,9 @@ Fly your spaceship, dodge incoming asteroids, and blast them into smaller pieces
     ```
 4.  **Run the game:**
     ```bash
-    python main.py
+    uv run main.py
     ```
+
 
 
 
