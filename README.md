@@ -38,7 +38,22 @@ Fly your spaceship, dodge incoming asteroids, and blast them into smaller pieces
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/<your-username>/asteroids-game.git
-cd asteroids-game
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/asteroids.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd asteroids
+    ```
+3.  **Install dependencies:**
+    Make sure you have Python and pip installed. Then, run the following command to install Pygame:
+    ```bash
+    pip install pygame
+    ```
+4.  **Run the game:**
+    ```bash
+    python main.py
+    ```
+
+
