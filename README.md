@@ -5,12 +5,6 @@ Fly your spaceship, dodge incoming asteroids, and blast them into smaller pieces
 
 ---
 
-## 🪐 Game Preview
-
-*(Add a screenshot or GIF here — e.g., `![Gameplay](assets/screenshot.png)`)*
-
----
-
 ## 🎮 Features
 
 - Smooth 2D graphics powered by **Pygame**  
@@ -40,7 +34,7 @@ Fly your spaceship, dodge incoming asteroids, and blast them into smaller pieces
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/asteroids.git
+    git clone https://github.com/ECcentricOG/asteroids.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -55,5 +49,6 @@ Fly your spaceship, dodge incoming asteroids, and blast them into smaller pieces
     ```bash
     python main.py
     ```
+
 
 
